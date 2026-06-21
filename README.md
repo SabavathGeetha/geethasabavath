@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Computer science and Engineering<br>Aspiring Data Analyst passionate about turning data analyst<br>skilled in SQL, EXcel, Python and html<br>currently building real-world analytics projects <br>Always learning and growing in the field and technology
+B.Tech Computer science and Engineering<br>Aspiring Data Analyst passionate about turning data analyst<br>skilled in SQL,c,DBMS,Rust,css, Python and html<br>currently building real-world analytics projects <br>Always learning and growing in the field and technology
 
 
 # 💻 Tech Stack:
